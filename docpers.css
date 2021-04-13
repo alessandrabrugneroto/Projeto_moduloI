@@ -1,0 +1,63 @@
+body {
+    background-color: gray;
+    text-align: center;
+    padding: 10px;
+}
+
+button {
+    border: solid 3px red;
+    border-radius: 10px;
+    background-color: rgb(206, 65, 65);
+    margin: 5px 5px;
+    width: 120px;
+    height: 30px;
+    text-decoration: none;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: center;
+    width: 100%;
+    height: 10%;
+    margin: 10px 5px;
+}
+
+@media screen and (max-width: 480px) {
+    .container {
+        display: flex;
+        background-color: rgba(128, 128, 128, 0.575);
+        left: 60px;
+        writing-mode: vertical-lr;
+        background-color: gray;
+        margin: 0 auto;
+    }
+}
+
+.historia {
+    border: solid 5px black;
+    width: 60%;
+    height: 30%;
+    margin: 3px 3px 3px 3px;
+    font-size: Arial, verdana 15px;
+    text-align: center;
+    line-height: 10px;
+    grid-auto-flow: row;
+    margin: auto;
+}
+
+@media screen and (max-width: 480px) {
+    .historia {
+        border: solid 2px black;
+        width: 60%;
+        height: 20px;
+        font-size: Arial, verdana 10px;
+        text-align: center;
+        margin: auto;
+    }
+}
+
+h2:hover {
+    border-color: red;
+}
