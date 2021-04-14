@@ -15,7 +15,7 @@ function fasetreschaves() {
                 `)
     } else if (escolha == 2) {
 
-        document.write(`<div class="texto"><h1><p><strong>Chaves encontrou a bruxa e paralizou seu tempo acabou ,não tem chororo!</strong></h1></div><a href="gameo.html"><button>Não quero desafio</button></a><p><a href="3index.html"><button>Quero um no desafio</button></a></p>`)
+        document.write(`<div class="texto"><h1><p><strong>Chaves encontrou a bruxa e paralizou seu tempo acabou ,não tem chororo!</strong></h1></div><a href="gameo.html"><button>Não quero desafio</button></a><p><a href="3index.html"><button>Quero um novo desafio</button></a></p>`)
 
 
     } else {
