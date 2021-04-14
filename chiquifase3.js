@@ -16,7 +16,7 @@ function faseChiquitres() {
     } else if (escolha == 2) {
 
         document.write(`<div class="texto">
-            <p> Saiu a noite e encontrou os espiritos zombeiteiros ! O seu jogo acabou não tem chororo!!! <br></div> <div class=" button"><a href = "3index.html"><button><strong>Escolha outro personagem para o proximo desafio</strong></button></a> <br> <a href="file:///C:/Projeto_moduloI/gameo.html"><button><strong>Não quero novo desafio</strong></button></a>`)
+            <p> Saiu a noite e encontrou os espiritos zombeiteiros ! O seu jogo acabou não tem chororo!!! <br></div> <div class=" button"><a href = "3index.html"><button><strong>Escolha outro personagem para o proximo desafio</strong></button></a> <br> <a href="gameo.html"><button><strong>Não quero novo desafio</strong></button></a>`)
 
     } else {
         alert("Seguindo");
