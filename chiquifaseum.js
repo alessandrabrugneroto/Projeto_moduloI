@@ -17,8 +17,8 @@ function fasechiquinha() {
 
         document.write(`<div class="texto">
            <h1> <p><strong> Chiquinha ficou de castigo  acabou seu tempo!</strong></h1></div>
-             <a href = "gameo.html" ><button> Não quero desafio</button></a>
-             <a href="3index.html"><button>Quero um novo desafio</button></a> `)
+             <a href = "gameo.html"><button> Não quero desafio</button></a>
+           <p>  <a href="3index.html"><button>Quero um novo desafio</button></a></p> `)
 
     } else {
         alert("Seguindo");
