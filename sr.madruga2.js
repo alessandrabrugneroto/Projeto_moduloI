@@ -9,15 +9,15 @@ function fasedoisMadruga() {
 
         document.write(`<div class="texto">
                <h1> <p> <strong>Você está na fase 2!<br> Sr Madruga deixou o Chaves tomar conta dos churrus<br> Chaves comeu todos os churros ,volte para primeira fase </p> <h1></div>
-              <p> <a href="file:///C:/Projeto_moduloI/Sr.madrugafase1.html"><button><strong> Voltar primeira fase</strong></button></a></p>
-               <a href="file:///C:/Projeto_moduloI/gameo.html"><button><strong>Desistir do desafio</strong></button></a></p>
+              <p> <a href="Sr.madrugafase1.html"><button><strong> Voltar primeira fase</strong></button></a></p>
+               <a href="gameo.html"><button><strong>Desistir do desafio</strong></button></a></p>
 
                 `)
     } else if (escolha == 2) {
 
         document.write(`<div class="texto"><h1><p><strong>Sr Madruga deixou a banca  de churros sozinha <br> quando voltou tinha uns espiritos zombeteiros rodiando a banca <br>ele terá apenas dez minutos para vender o restante <br></h1></div>
-        <p><a href="file:///C:/Projeto_moduloI/Sr.Madruga3.html"><button><strong>Proxima fase</strong></button></a></p>
-        <a href="file:///C:/Projeto_moduloI/gameo.html"><button><strong>Desistir do desafio</strong></button></a>`)
+        <p><a href="Sr.Madruga3.html"><button><strong>Proxima fase</strong></button></a></p>
+        <a href="gameo.html"><button><strong>Desistir do desafio</strong></button></a>`)
 
 
     } else {
